@@ -1,0 +1,30 @@
+{
+  "name": "voluptatequia",
+  "version": "1.0.0",
+  "description": "Sign permit messages for Ethereum tokens",
+  "main": "dist/eth-permit.js",
+  "types": "dist/eth-permit.d.ts",
+  "author": "AdrianaGottlieb",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MyaLind/voluptatequia.git"
+  },
+  "bugs": {
+    "url": "https://github.com/MyaLind/voluptatequia.git/issues"
+  },
+  "devDependencies": {
+    "@openzeppelin/test-environment": "^0.1.4",
+    "@types/chai": "^4.2.12",
+    "@types/mocha": "^8.0.1",
+    "@types/utf8": "^2.1.6",
+    "chai": "^4.2.0",
+    "ethers": "^5.5.1",
+    "mocha": "^8.1.1",
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.7"
+  },
+  "dependencies": {
+    "utf8": "^3.0.0"
+  }
+}
